@@ -138,7 +138,7 @@ footer{
   background:#000000;
   text-align:center;
   color: #FFFFFF;
+  position: fixed;
   bottom: 0;
   left: 0;
-  position: fixed;
 }
